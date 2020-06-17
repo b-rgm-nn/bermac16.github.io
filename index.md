@@ -8,3 +8,6 @@ So this character I'm writing about is really quite astonishing, which is precis
 * intelligent
 * funny
 * interesting
+
+Famous Galileo quote:
+> Thunderbolt and lightening very, very frightening me
