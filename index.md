@@ -11,3 +11,5 @@ So this character I'm writing about is really quite astonishing, which is precis
 
 Famous Galileo quote:
 > Thunderbolt and lightening very, very frightening me
+^
+<img src="https://images-na.ssl-images-amazon.com/images/I/61D2yJSh8RL._SL1024_.jpg"/>
